@@ -1,0 +1,29 @@
+_repo: The-Hispanic-Nations-of-the-New-World--A-Chronicle-of-Our-Southern-Neighbors_3042
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shepherd, William R. (William Robert)
+    alias: Shepherd, William Robert
+    birthdate: 1871
+    deathdate: 1934
+    gutenberg_agent_id: '1101'
+    url: http://www.gutenberg.org/2009/agents/1101
+description: Chronicles of America series; v. 50
+gutenberg_bookshelf:
+- United States
+- Children's History
+gutenberg_issued: '2002-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3042'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Latin America -- History'
+- !lcc 'F1401'
+- !lcsh 'America'
+- GITenberg
+title: 'The Hispanic Nations of the New World: A Chronicle of Our Southern Neighbors'
+url: http://www.gutenberg.org/ebooks/3042
