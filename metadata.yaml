@@ -1,5 +1,8 @@
 _repo: The-Hispanic-Nations-of-the-New-World--A-Chronicle-of-Our-Southern-Neighbors_3042
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Shepherd, William R. (William Robert)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '1101'
     url: http://www.gutenberg.org/2009/agents/1101
 description: Chronicles of America series; v. 50
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3042#The-Hispanic-Nations-of-the-New-World--A-Chronicle-of-Our-Southern-Neighbors
 gutenberg_bookshelf:
 - United States
 - Children's History
